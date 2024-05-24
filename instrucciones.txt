@@ -1,0 +1,10 @@
+Instrucciones para construir y ejecutar la aplicación:
+
+1. Clonar el repositorio (si es necesario):
+   git clone <URL del repositorio>
+   cd webapp
+
+2. Construir y ejecutar la aplicación con Docker Compose:
+   docker-compose up --build
+
+3. La aplicación estará disponible en http://localhost:3000 y se conectará a la base de datos MongoDB.
